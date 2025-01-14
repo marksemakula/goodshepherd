@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <!-- Suit -->
+  <!-- Jacket -->
+  <path d="M120,100 L280,100 L300,500 L100,500 Z" fill="#2C3E50"/>
+  <!-- Collar -->
+  <path d="M120,100 L200,300 L280,100 L200,140 Z" fill="#34495E"/>
+  <!-- Shirt -->
+  <path d="M160,100 L200,260 L240,100" fill="white"/>
+  <!-- Tie -->
+  <path d="M190,140 L210,140 L215,220 L200,240 L185,220 L190,140" fill="#E74C3C"/>
+  <!-- Buttons -->
+  <circle cx="200" cy="320" r="8" fill="#BDC3C7"/>
+  <circle cx="200" cy="380" r="8" fill="#BDC3C7"/>
+  <circle cx="200" cy="440" r="8" fill="#BDC3C7"/>
+</svg>

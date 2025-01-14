@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400">
+  <!-- Graduation Cap -->
+  <rect x="100" y="180" width="200" height="40" fill="#2C3E50"/>
+  <polygon points="200,150 100,180 300,180" fill="#2C3E50"/>
+  <rect x="190" y="150" width="20" height="80" fill="#2C3E50"/>
+  <circle cx="200" cy="230" r="10" fill="#2C3E50"/>
+  <!-- Diploma -->
+  <rect x="160" y="240" width="80" height="30" fill="#34495E"/>
+  <rect x="155" y="240" width="10" height="30" fill="#34495E"/>
+  <rect x="235" y="240" width="10" height="30" fill="#34495E"/>
+</svg>

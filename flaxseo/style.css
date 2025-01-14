@@ -332,7 +332,7 @@ a img.aligncenter {
 	-ms-justify-content:center;
 	height:100%;
 	width:100%;
-	background-color:#bac63e;    
+	background-color:#895129;    
 }
 
 .letter{
@@ -389,7 +389,7 @@ a img.aligncenter {
     -ms-justify-content:center;
     height:50%;
     width:50%;
-    background-color:#bac63e;
+    background-color:#895129;
     -webkit-animation-name:cupcakeAnimate;
     -webkit-animation-duration:500ms;
     -webkit-animation-direction:alternate;
@@ -512,12 +512,12 @@ a img.aligncenter {
 
 .header_style_01 .navbar-default .navbar-nav > li:hover a,
 .header_style_01 .navbar-default .navbar-nav > li:focus a {
-    background-color: #bac63e;
+    background-color: #895129;
 	color: #ffffff;
 }
 
 .header_style_01 .navbar-default .navbar-nav > li a.active{
-	background-color: #bac63e;
+	background-color: #895129;
 	color: #ffffff;
 }
 
@@ -571,8 +571,8 @@ li.social-links a {
 	border-radius: 50px;
 	letter-spacing: 1px;
 	margin-top: 16px;
-	background-color: #bac63e;
-	border: 2px solid #bac63e;
+	background-color: #895129;
+	border: 2px solid #895129;
 	transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
 	-webkit-transition: all 0.3s ease;
@@ -581,8 +581,8 @@ li.social-links a {
 }
 
 .header_style_01 .navbar-default .navbar-nav > li a.btn-light.top-btn:hover{
-	color: #bac63e;
-	border-color: #bac63e;
+	color: #895129;
+	border-color: #895129;
 	background: none;
 }
 
@@ -788,7 +788,7 @@ body.seo_version .btn-light.ban-btn{
 }
 
 .progress-bar-success{
-	background: #bac63e;
+	background: #895129;
 	box-shadow: none;
 }
 
@@ -2127,7 +2127,7 @@ select.mobile-device {
 }
 
 .footer .widget-title h3 {
-    color: #bac63e;
+    color: #895129;
     font-weight: 500;
     font-size: 21px;
     padding: 0;
@@ -2145,11 +2145,11 @@ select.mobile-device {
 }
 
 body.seo_version .footer-links a:hover{
-	color: #bac63e;
+	color: #895129;
 }
 .footer-links a:hover,
 .footer a:hover {
-    color: #bac63e;
+    color: #895129;
 }
 
 .footer-links li {
@@ -2273,7 +2273,7 @@ body.seo_version .footer-links a:hover{
 }
 
 .footer-distributed .footer-company-name a:hover{
-	color: #bac63e;
+	color: #895129;
 }
 
 
@@ -2323,19 +2323,19 @@ body.seo_version .footer-links a:hover{
 }
 
 .social-md li a.fb:hover{
-	background: #bac63e;
+	background: #895129;
 }
 .social-md li a.gi:hover{
-	background: #bac63e;
+	background: #895129;
 }
 .social-md li a.tw:hover{
-	background: #bac63e;
+	background: #895129;
 }
 .social-md li a.dr:hover{
-	background: #bac63e;
+	background: #895129;
 }
 .social-md li a.pi:hover{
-	background: #bac63e;
+	background: #895129;
 }
 
 

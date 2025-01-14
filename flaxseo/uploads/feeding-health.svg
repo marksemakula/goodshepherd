@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+  <!-- Left Side: Feeding -->
+  <!-- Plate -->
+  <circle cx="200" cy="250" r="100" fill="white" stroke="#333333" stroke-width="12"/>
+  <!-- Fork -->
+  <rect x="140" y="200" width="12" height="100" fill="#333333"/>
+  <rect x="125" y="200" width="12" height="50" fill="#333333"/>
+  <rect x="155" y="200" width="12" height="50" fill="#333333"/>
+  <!-- Spoon -->
+  <rect x="230" y="200" width="12" height="100" fill="#333333"/>
+  <circle cx="236" cy="200" r="16" fill="#333333"/>
+  
+  <!-- Health Cross -->
+  <rect x="160" y="380" width="80" height="180" fill="#FF0000"/>
+  <rect x="110" y="430" width="180" height="80" fill="#FF0000"/>
+</svg>
